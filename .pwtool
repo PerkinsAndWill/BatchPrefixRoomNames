@@ -1,28 +1,27 @@
 {
+  "pwtoolVersion":"0.2.0",
   "title":"Batch Prefix Room Names",
-  "description":"Add a prefix to all room names in a Revit Project",
+  "description":"Add a user specified prefix to all room names in a Revit Project",
   "coverImage":"./_PW/cover.png",
   "authors":[{
     "name":"Josh Moore",
     "email":"josh.moore@perkinswill.com",
     "role":"developer"
   }],
-  "offices":[
-    "Dallas",
-  ],
-  "projects":[{
-    "name":"",
-    "number":"",
-	"marketSector":""
-  }],
+  "platform":"Dynamo",
   "dependencies":[{
     "author":"Autodesk",
     "name":"Revit",
     "version":"2016"
   }],
   "tags":[
-    "rooms",
-    "batch",
-    "rename"
-  ]
+    "Rooms",
+    "Rename"
+  ],
+  "projects":[{
+    "name":"",
+    "number":"",
+	"marketSector":"",
+	"office":""
+  }]
 }
