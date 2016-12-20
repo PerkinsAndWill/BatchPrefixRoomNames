@@ -1,20 +1,19 @@
 {
-  "title":"Write the name of your script here",
-  "description":"Write a short description of what your script does here",
+  "title":"Batch Prefix Room Names",
+  "description":"Add a prefix to all room names in a Revit Project",
   "coverImage":"./_PW/cover.png",
   "authors":[{
-    "name":"Kyle Example",
-    "email":"kyle.example@example.com",
+    "name":"Josh Moore",
+    "email":"josh.moore@perkinswill.com",
     "role":"developer"
   }],
   "offices":[
-    "NewYork",
-    "SanFrancisco"
+    "Dallas",
   ],
   "projects":[{
-    "name":"Example Project",
-    "number":"123456.000",
-	"marketSector":"CCC"
+    "name":"",
+    "number":"",
+	"marketSector":""
   }],
   "dependencies":[{
     "author":"Autodesk",
